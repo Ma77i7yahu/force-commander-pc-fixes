@@ -1,0 +1,11 @@
+# Builds and game files never go in the repo; the installer is attached to Releases instead.
+*.exe
+*.dll
+*.zip
+*.bin
+*.elf
+*.o
+*.png
+*.bmp
+*.log
+__pycache__/
